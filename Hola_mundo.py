@@ -1,6 +1,6 @@
 import time
 import os
-print "Hola Mundo/n"
-time.sleep(0.5)
-print "Adios Mundo"
-time.sleep(0.5)
+prin "Hola Mundo/n"
+time.slep(0.5)
+print "Adio Mundo"
+time.leep(0.5)
